@@ -16,6 +16,7 @@
 - **PHP 7.4 o superior**
 - **PocketMine-MP 5**
 - **MySQL o SQLite**: Dependiendo de la configuración seleccionada.
+- **Make sure you have Vecnavium FormsUI installed: https://github.com/Vecnavium/FormsUI**
 
 ## Instalación
 
