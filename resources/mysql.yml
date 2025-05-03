@@ -1,0 +1,5 @@
+enabled: false
+host: "localhost"
+user: "root"
+password: "empty"
+database: "utilslib"
