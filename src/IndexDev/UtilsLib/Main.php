@@ -5,8 +5,10 @@ namespace IndexDev\UtilsLib;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\SingletonTrait;
 
-use IndexDev\UtilsLib\utils\{Utils, FormUtils, Database, FileManager};
+use IndexDev\UtilsLib\utils\Utils;
 use IndexDev\UtilsLib\utils\FormUtils;
+use IndexDev\UtilsLib\utils\Database;
+use IndexDev\UtilsLib\utils\FileManager;
 use IndexDev\UtilsLib\command\UtilsCommand;
 
 class Main extends PluginBase {
