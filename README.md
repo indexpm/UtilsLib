@@ -25,7 +25,7 @@
 Para comenzar, clona este repositorio en tu servidor de desarrollo de PocketMine-MP 5.
 
 ```bash
-git clone https://github.com/Indexqq/UtilsLib.git
+git clone https://github.com/indexpm/UtilsLib.git
 ```
 
 ## Uso e Inicializacion de la base de datos 
